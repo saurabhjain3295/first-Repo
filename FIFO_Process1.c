@@ -55,6 +55,9 @@ int main() {
 	close(fd);
 	printf("P1 : fd is closed\n");
 
+
 	
 	return 0;
+	
+	//this is newly added 
 }
